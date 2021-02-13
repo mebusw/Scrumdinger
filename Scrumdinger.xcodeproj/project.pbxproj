@@ -104,7 +104,6 @@
 				854EBCF725D790CC00209263 /* Models */,
 				853334E225D76096005BFF51 /* ScrumdingerApp.swift */,
 				853334E425D76096005BFF51 /* MeetingView.swift */,
-				8533351325D78356005BFF51 /* DailyScrum.swift */,
 				8533351825D783AB005BFF51 /* CardView.swift */,
 				853334E625D76099005BFF51 /* Assets.xcassets */,
 				853334EB25D76099005BFF51 /* Info.plist */,
@@ -142,6 +141,7 @@
 		854EBCF725D790CC00209263 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				8533351325D78356005BFF51 /* DailyScrum.swift */,
 				854EBCFB25D790FD00209263 /* Color+Codable.swift */,
 			);
 			path = Models;
